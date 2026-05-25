@@ -1,5 +1,16 @@
+{"theme_color":"#8936FF",
+"background_color":"#2EC6FE",
+"orientation":"any",
+"display":"standalone",
+"dir":"auto",
+"lang":"pt-BR",
+"name":"aulapwa",
+"short_name":"aulapwa"
+
+}
+
 {
-    "name": "AprendendoPWA",
+    "name": "AprenhjbudendoPWA",
     "short_name": "AprendPWA",
     "description": "WEB APP para aprender PWA (Disciplina PAMII).",
     "display": "fullscreen",
